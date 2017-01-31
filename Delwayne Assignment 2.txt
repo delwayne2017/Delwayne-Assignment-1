@@ -1,0 +1,7 @@
+There is no difference between print and puts. The same output comes out as a result. 
+
+irb(main):001:0> print "Delwayne"
+Delwayne=> nil
+irb(main):002:0> puts "Delwayne"
+Delwayne
+=> nil
